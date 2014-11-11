@@ -26,7 +26,7 @@ Sentiyapa.prototype = {
 				score+= this.wordList[word];
 			}
 		}
-		return score;
+		return score/words.length;
 	}
 };
 
