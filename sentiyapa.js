@@ -30,4 +30,6 @@ Sentiyapa.prototype = {
 	}
 };
 
+exports.Sentiyapa = Sentiyapa;
+
 
