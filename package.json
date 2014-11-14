@@ -1,8 +1,8 @@
 {
   "name": "sentiyapa",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A quick fix sentiment analyser in Javascript. Uses AFINN word list",
-  "main": "main.js",
+  "main": "sentiyapa.js",
   "scripts": {
     "test": "node main.js"
   },
