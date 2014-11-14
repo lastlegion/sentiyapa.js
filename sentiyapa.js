@@ -1,7 +1,7 @@
 var fs = require('fs');
 
 var Sentiyapa = function(){
-	this.afinn = "AFINN-111.txt";
+	this.afinn = __dirname + "/AFINN-111.txt";
 	this.wordList = {};
 }
 

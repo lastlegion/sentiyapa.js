@@ -1,0 +1,27 @@
+{
+  "name": "sentiyapa",
+  "version": "1.0.0",
+  "description": "A quick fix sentiment analyser in Javascript. Uses AFINN word list",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lastlegion/sentiyapa.js.git"
+  },
+  "keywords": [
+    "sentiment",
+    "analyser",
+    "sentiment",
+    "nlp",
+    "natural",
+    "language"
+  ],
+  "author": "Ganesh Iyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lastlegion/sentiyapa.js/issues"
+  },
+  "homepage": "https://github.com/lastlegion/sentiyapa.js"
+}
